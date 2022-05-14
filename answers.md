@@ -77,3 +77,16 @@ Answer 9:
 
  nothing to commit, working tree clean
 
+Answer 10:
+ No the changes werent reflected in the local files
+
+Answer 11:
+ The changes are reflected on the github site
+ Gives message "Everything is up-to-date"
+
+Answer 12:
+ THE CHANGES WERE MADE TO MY LOCAL FILE
+
+Answer 13:
+ ./  ../  git-lab-2/
+
